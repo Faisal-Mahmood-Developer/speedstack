@@ -31,7 +31,7 @@ const About = () => {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-heading font-bold text-gradient mb-6">
-              About SpeedStack
+              About ConnectStack
             </h2>
             <p className="text-xl font-body text-muted-foreground max-w-3xl mx-auto">
               We're a cutting-edge web development academy dedicated to transforming passionate learners into skilled developers through hands-on learning and real-world projects.
@@ -48,7 +48,7 @@ const About = () => {
               </h3>
               <div className="space-y-4 font-body text-muted-foreground">
                 <p>
-                  At SpeedStack, we believe in learning by doing. Our comprehensive curriculum covers everything from Frontend fundamentals to Backend mastery, ensuring you graduate with the skills employers demand.
+                  At ConnectStack, we believe in learning by doing. Our comprehensive curriculum covers everything from Frontend fundamentals to Backend mastery, ensuring you graduate with the skills employers demand.
                 </p>
                 <p>
                   <strong className="text-foreground">Frontend Technologies:</strong> HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS

@@ -9,7 +9,7 @@ const Testimonials = () => {
       name: 'Sarah Shah',
       role: 'Frontend Developer at TechCorp',
       image: '👩‍💻',
-      content: 'SpeedStack transformed my career completely. The hands-on approach and real-world projects gave me the confidence to land my dream job. The instructors are industry experts who genuinely care about student success.',
+      content: 'ConnectStack transformed my career completely. The hands-on approach and real-world projects gave me the confidence to land my dream job. The instructors are industry experts who genuinely care about student success.',
       rating: 5,
       course: 'Frontend Development'
     },
@@ -25,7 +25,7 @@ const Testimonials = () => {
       name: 'Asad Ullah',
       role: 'WordPress Developer',
       image: '👩‍🎨',
-      content: 'I started with zero coding experience. SpeedStack\'s WordPress course not only taught me development but also how to run a successful web design business. I now have 20+ recurring clients.',
+      content: 'I started with zero coding experience. ConnectStack\'s WordPress course not only taught me development but also how to run a successful web design business. I now have 20+ recurring clients.',
       rating: 5,
       course: 'WordPress Development'
     },
@@ -41,7 +41,7 @@ const Testimonials = () => {
       name: 'Lisa Thompson',
       role: 'E-commerce Store Owner',
       image: '👩‍💼',
-      content: 'SpeedStack didn\'t just teach me to code - they helped me build and launch my e-commerce platform. The business guidance was invaluable for starting my online store.',
+      content: 'ConnectStack didn\'t just teach me to code - they helped me build and launch my e-commerce platform. The business guidance was invaluable for starting my online store.',
       rating: 5,
       course: 'Custom Web App'
     }

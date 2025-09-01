@@ -20,7 +20,7 @@ const Contact = () => {
   }, [state.succeeded]);
 
   const contactInfo = [
-    { icon: Mail, title: 'Email', value: 'hello@speedstack.dev', action: 'mailto:hello@speedstack.dev' },
+    { icon: Mail, title: 'Email', value: 'hello@ConnectStack.dev', action: 'mailto:hello@ConnectStack.dev' },
     { icon: Phone, title: 'WhatsApp', value: '+92 308 3470930', action: 'https://wa.me/923083470930' },
     { icon: MapPin, title: 'Location', value: 'Lahore, Pakistan', action: '#' }
   ];

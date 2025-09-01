@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
-import speedstackLogo from '@/assets/speedstack-logo.png';
+import ConnectStackLogo from '@/assets/ConnectStack-logo.png';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,9 +28,9 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <img src={speedstackLogo} alt="SpeedStack" className="h-10 w-10" />
+            <img src={ConnectStackLogo} alt="ConnectStack" className="h-10 w-10" />
             <div className="text-xl font-heading font-bold text-gradient">
-              SpeedStack
+              ConnectStack
             </div>
           </div>
 

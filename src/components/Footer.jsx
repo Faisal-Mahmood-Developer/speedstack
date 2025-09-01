@@ -1,5 +1,5 @@
 import { Heart, Code, Mail, Phone, MapPin } from 'lucide-react';
-import speedstackLogo from '@/assets/speedstack-logo.png';
+import ConnectStackLogo from '@/assets/ConnectStack-logo.png';
 
 const Footer = () => {
   const quickLinks = [
@@ -42,9 +42,9 @@ const Footer = () => {
             {/* Brand Section */}
             <div className="lg:col-span-1">
               <div className="flex items-center space-x-3 mb-6">
-                <img src={speedstackLogo} alt="SpeedStack" className="h-10 w-10" />
+                <img src={ConnectStackLogo} alt="ConnectStack" className="h-10 w-10" />
                 <div className="text-xl font-heading font-bold text-gradient">
-                  SpeedStack
+                  ConnectStack
                 </div>
               </div>
               <p className="font-body text-muted-foreground mb-6 leading-relaxed">
@@ -101,10 +101,10 @@ const Footer = () => {
                 <div className="flex items-center space-x-3">
                   <Mail className="w-4 h-4 text-primary" />
                   <a 
-                    href="mailto:hello@speedstack.dev" 
+                    href="mailto:hello@ConnectStack.dev" 
                     className="font-body text-muted-foreground hover:text-accent transition-colors"
                   >
-                    hello@speedstack.dev
+                    hello@ConnectStack.dev
                   </a>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -138,7 +138,7 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               {/* Copyright */}
               <div className="flex items-center space-x-2 font-body text-muted-foreground">
-                <span>&copy; 2025 SpeedStack</span>
+                <span>&copy; 2025 ConnectStack</span>
                 <span>|</span>
                 <span>Web Development Learning Academy & Software Solutions Hub</span>
                 <span>|</span>

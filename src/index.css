@@ -4,13 +4,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/* SpeedStack Design System - Futuristic Web Development Academy
+/* ConnectStack Design System - Futuristic Web Development Academy
 All colors MUST be HSL for proper theming.
 */
 
 @layer base {
   :root {
-    /* SpeedStack Brand Colors */
+    /* ConnectStack Brand Colors */
     --background: 220 25% 5%;
     --foreground: 210 40% 98%;
 

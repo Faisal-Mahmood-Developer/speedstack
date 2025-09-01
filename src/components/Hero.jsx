@@ -78,7 +78,7 @@ const Hero = () => {
             style={{ animationDelay: '0.6s' }}
           >
             <button className="btn-neon flex items-center space-x-2 group px-5 py-2.5 text-base rounded-full">
-              <span>Join SpeedStack Now</span>
+              <span>Join ConnectStack Now</span>
               <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
             </button>
 
