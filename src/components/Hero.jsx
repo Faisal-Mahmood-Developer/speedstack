@@ -47,7 +47,7 @@ const Hero = () => {
           {/* Main Heading */}
           <div className="fade-in-up">
             <h1 className="text-5xl md:text-7xl font-heading font-bold mb-6">
-              <span className="text-gradient">Speed</span>
+              <span className="text-gradient">Connect</span>
               <span className="text-foreground">Stack</span>
             </h1>
             <div className="text-xl md:text-2xl font-body text-muted-foreground mb-4">
