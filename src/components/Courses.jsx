@@ -30,7 +30,8 @@ const Courses = () => {
       icon: Globe,
       title: 'Graphic Designing',
       description: 'Design creative visuals, logos, posters, and digital graphics to enhance brand identity and engagement.',
-      skills: ['Logo Design', 'Brand Identity', 'Posters & Flyers', 'Digital Graphics'],
+      skills: ['Adobe Illustrator', 'Adobe Photoshop', 'Figma', 'Canva'],
+      // skills: ['Logo Design', 'Brand Identity', 'Posters & Flyers', 'Digital Graphics'],
       color: 'primary'
     },
     {
